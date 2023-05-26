@@ -7,5 +7,5 @@ Deberá contar con un menú de ingreso que muestre el mensaje “Bienvenido dese
 	  Uno para suma.
 	  Dos para resta.
 	  Tres para multiplicación.
-	  Cuatro para división”
+	  Cuatro para división”d
 3.  Crear un método para cada operación y hacer el llamado desde el programa principal.
